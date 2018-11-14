@@ -2,6 +2,6 @@
 
 ## powered by Pomodoro
 
-|  #  | 🥔 1 | 🥔 2 |
-| --- | -------- | -------- |
-| 1 | Longest Substring Without Repeating | Longest Substring Without Repeating |
+|  #  | 📅 |🥔 1 | 🥔 2 |
+| --- | -- |-------- | -------- |
+| 1 | 11/14/18 | User Avatar | Longest Substring Without Repeating |
